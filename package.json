@@ -1,0 +1,21 @@
+{
+  "name": "homemates",
+  "version": "1.0.1",
+  "description": "Module read a file which you select than connect to localhost with port which you select",
+  "main": "clonExpress.js",
+  "scripts": {
+    "test": "deneme"
+  },
+  "keywords": [
+    "express",
+    "readFile",
+    "html"
+  ],
+  "author": "guvenseckin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {}
+}
